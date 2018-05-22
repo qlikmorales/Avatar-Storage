@@ -1,0 +1,143 @@
+name = Jene_5
+type = body+head
+scale = 1
+filename = Jene_5/Jene_5.fbx
+texdir = Jene_5/textures
+script = Jene_5/scripts/flow_jene5.js
+script = Jene_5/scripts/jene5_script_1.js
+script = Jene_5/scripts/jene5_script_2.js
+script = Jene_5/scripts/jene5_script_3.js
+joint = jointLeftHand = LeftHand
+joint = jointNeck = Neck
+joint = jointEyeRight = RightEye
+joint = jointRoot = Hips
+joint = jointRightHand = RightHand
+joint = jointEyeLeft = LeftEye
+joint = jointLean = Spine
+joint = jointHead = Head
+freeJoint = LeftArm
+freeJoint = LeftForeArm
+freeJoint = RightArm
+freeJoint = RightForeArm
+jointIndex = RightToeBase = 36
+jointIndex = flow_hair_8 = 113
+jointIndex = flow_skirt_26 = 6
+jointIndex = flow_hair_4 = 115
+jointIndex = RightToe_End = 37
+jointIndex = LeftHandPinky3 = 80
+jointIndex = flow_skirt_29 = 1
+jointIndex = Head = 99
+jointIndex = flow_hair_3 = 114
+jointIndex = LeftHandIndex1 = 90
+jointIndex = flow_hair_16 = 103
+jointIndex = flow_skirt_31 = 3
+jointIndex = LeftUpLeg = 38
+jointIndex = RightHandIndex2 = 67
+jointIndex = flow_skirt_28 = 8
+jointIndex = flow_skirt_9 = 21
+jointIndex = flow_skirt_4 = 32
+jointIndex = RightHandMiddle2 = 63
+jointIndex = flow_skirt_1 = 29
+jointIndex = flow_hair_6 = 111
+jointIndex = RightHandRing2 = 59
+jointIndex = LeftHandIndex2 = 91
+jointIndex = RightHandRing1 = 58
+jointIndex = flow_skirt_8 = 28
+jointIndex = LeftHandIndex3 = 92
+jointIndex = flow_skirt_18 = 14
+jointIndex = flow_skirt_5 = 25
+jointIndex = flow_hair_21 = 118
+jointIndex = flow_skirt_22 = 10
+jointIndex = RightHandThumb2 = 71
+jointIndex = LeftHandMiddle4 = 89
+jointIndex = flow_skirt_2 = 30
+jointIndex = RightShoulder = 50
+jointIndex = flow_skirt_17 = 13
+jointIndex = RightHandMiddle4 = 65
+jointIndex = RightHandRing4 = 61
+jointIndex = flow_breasts_3 = 46
+jointIndex = LeftHandMiddle2 = 87
+jointIndex = Hips = 0
+jointIndex = LeftHandPinky4 = 81
+jointIndex = flow_breasts_4 = 47
+jointIndex = RightHandThumb1 = 70
+jointIndex = Spine1 = 44
+jointIndex = LeftHandPinky1 = 78
+jointIndex = flow_skirt_16 = 20
+jointIndex = flow_breasts_1 = 48
+jointIndex = HeadTop_End = 119
+jointIndex = RightHandPinky1 = 54
+jointIndex = flow_hair_13 = 106
+jointIndex = flow_skirt_27 = 7
+jointIndex = flow_hair_19 = 109
+jointIndex = flow_skirt_15 = 19
+jointIndex = RightHandPinky4 = 57
+jointIndex = flow_skirt_20 = 16
+jointIndex = flow_skirt_3 = 31
+jointIndex = flow_skirt_30 = 2
+jointIndex = RightHand = 53
+jointIndex = RightHandThumb4 = 73
+jointIndex = LeftHandRing1 = 82
+jointIndex = RightHandIndex3 = 68
+jointIndex = flow_skirt_13 = 17
+jointIndex = LeftHandIndex4 = 93
+jointIndex = RightFoot = 35
+jointIndex = LeftToeBase = 41
+jointIndex = flow_hair_17 = 104
+jointIndex = RightHandPinky2 = 55
+jointIndex = flow_skirt_19 = 15
+jointIndex = LeftHandThumb3 = 96
+jointIndex = Spine2 = 45
+jointIndex = flow_hair_15 = 102
+jointIndex = flow_hair_7 = 112
+jointIndex = LeftHandPinky2 = 79
+jointIndex = Body_HiFiRig = 120
+jointIndex = flow_hair_20 = 108
+jointIndex = LeftHandMiddle1 = 86
+jointIndex = RightHandThumb3 = 72
+jointIndex = LeftHandRing4 = 85
+jointIndex = RightHandIndex4 = 69
+jointIndex = flow_skirt_12 = 24
+jointIndex = flow_skirt_7 = 27
+jointIndex = flow_hair_22 = 117
+jointIndex = RightHandRing3 = 60
+jointIndex = LeftShoulder = 74
+jointIndex = Spine = 43
+jointIndex = flow_hair_5 = 116
+jointIndex = RightHandMiddle3 = 64
+jointIndex = RightLeg = 34
+jointIndex = Hair1 = 121
+jointIndex = flow_skirt_14 = 18
+jointIndex = flow_skirt_24 = 12
+jointIndex = RightHandIndex1 = 66
+jointIndex = RightHandMiddle1 = 62
+jointIndex = LeftHand = 77
+jointIndex = LeftHandRing2 = 83
+jointIndex = LeftArm = 75
+jointIndex = LeftLeg = 39
+jointIndex = RightHandPinky3 = 56
+jointIndex = flow_hair_12 = 105
+jointIndex = flow_skirt_11 = 23
+jointIndex = flow_skirt_6 = 26
+jointIndex = LeftToe_End = 42
+jointIndex = RightArm = 51
+jointIndex = LeftFoot = 40
+jointIndex = RightUpLeg = 33
+jointIndex = flow_skirt_21 = 9
+jointIndex = RightForeArm = 52
+jointIndex = LeftHandMiddle3 = 88
+jointIndex = flow_skirt_25 = 5
+jointIndex = flow_hair_14 = 107
+jointIndex = LeftForeArm = 76
+jointIndex = RightEye = 100
+jointIndex = LeftHandThumb4 = 97
+jointIndex = flow_hair_18 = 110
+jointIndex = flow_skirt_10 = 22
+jointIndex = flow_skirt_23 = 11
+jointIndex = LeftHandRing3 = 84
+jointIndex = Neck = 98
+jointIndex = flow_breasts_2 = 49
+jointIndex = flow_skirt_32 = 4
+jointIndex = LeftHandThumb2 = 95
+jointIndex = LeftEye = 101
+jointIndex = LeftHandThumb1 = 94
